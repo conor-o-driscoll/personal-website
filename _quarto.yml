@@ -10,12 +10,18 @@ website:
         text: Home
       - projects.qmd
     tools:
-      - icon: twitter
+      - icon: twitter-x
         href: https://twitter.com/conorodriscollx
+      - icon: linkedin
+        href: https://www.linkedin.com/in/conor-o-driscoll-a0624a234/
+      - icon: bluesky
+        href: https://bsky.app/profile/conorodriscoll99.bsky.social
+      - icon: building
+        href: https://www.rug.nl/staff/c.odriscoll/?lang=en
       - icon: github
         href: https://github.com/conor-o-driscoll/personal-website
   page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
+    right: "Built with [R](https://www.r-project.org/) and [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2025, Conor O'Driscoll"
 
 format:
